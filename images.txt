@@ -1,0 +1,3 @@
+anxin03/iptv-api
+#支持指定架构
+--platform=linux/arm64
